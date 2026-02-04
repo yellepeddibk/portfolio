@@ -33,7 +33,7 @@ portfolio/
 
 ## Live Demo
 
-[View Live Site](https://bhargavyellepeddi.github.io/portfolio)
+[View Live Site](https://yellepeddibk.github.io/portfolio/)
 
 ## Contact
 
